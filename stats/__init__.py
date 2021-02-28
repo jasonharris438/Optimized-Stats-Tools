@@ -1,2 +1,2 @@
-from numerical_methods import newton_poisson_solver
-from stochastic_processes import maximum_likelihood_ou_mean_reversion, maximum_likelihood_general_langevin, simulations
+from .numerical_methods import newton_poisson_solver
+from .stochastic_processes import maximum_likelihood_ou_mean_reversion, maximum_likelihood_general_langevin, simulations

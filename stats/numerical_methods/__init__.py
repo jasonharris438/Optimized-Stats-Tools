@@ -1,1 +1,1 @@
-from solvers import newton_poisson_solver
+from .solvers import newton_poisson_solver
